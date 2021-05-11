@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "class-transformer": "^0.2.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "reflect-metadata": "^0.1.13",
     "ts-loader": "^7.0.5"
   }
